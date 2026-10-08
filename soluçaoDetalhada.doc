@@ -1,0 +1,21 @@
+01 - O que o sistema precisa receber
+Precisa permitir consultar a quantidade disponível do estoque.
+
+02 – O que o sistema precisa calcular
+Consultar quantidade disponível do produto, realizar movimentação de entrada e saída.
+
+03 - Quais decisões o sistema deve tomar:
+Impedir retirada quando a quantidade do estoque for maior que o estoque disponível.
+
+04 – Quais são as regras do problema: 
+O sistema deve continuar funcionando enquanto o operador desejar, ou seja, loop; exemplos while, for.
+If e else para verificação do estoque disponível para retirada.
+
+
+===== Controle de estoque =====
+1 – Consultar quantidade do estoque
+2 – Adicionar estoque produtos
+3 – Retirada de estoque
+4 – Sair
+
+Console.clear para limpar o menu.
